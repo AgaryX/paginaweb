@@ -67,9 +67,7 @@ img{
     text-transform: uppercase !important;
 }
 
-/*=================================
-    ESTILOS: Botones
-==================================*/
+/*Botones*/
 
 .hm-btn{
     display: inline-block;
@@ -96,9 +94,7 @@ img{
 
 
 
-/*=================================
-    ESTILOS: Headerhm
-==================================*/
+/*Headerhm*/
 
 .header-menu-movil{
     display: none;
@@ -190,9 +186,7 @@ img{
     
 }
 
-/*=================================
-    ESTILOS: banner
-==================================*/
+/*banner*/
 .hm-banner{
     position: relative;
     width: 100%;
@@ -217,9 +211,7 @@ img{
 }
 
 
-/*=================================
-    ESTILOS: categorias home
-==================================*/
+/* categorias home*/
 .hm-page-block{
     position: relative;
     padding: 60px 0px;
@@ -301,9 +293,7 @@ img{
 }
 
 
-/*=================================
-    ESTILOS: Productos destacados
-==================================*/
+/* Productos destacados*/
 
 .hm-tabs{
     display: flex;
@@ -426,9 +416,7 @@ img{
     width: 100%;
 }
 
-/*=================================
-    ESTILOS: Footer
-==================================*/
+/*Footer*/
 
 footer{
     background: #151515;
@@ -529,9 +517,7 @@ footer .foo-row .foo-col ul li a:hover{
 
 
 
-/*=================================
-    ESTILOS: RESPOIVE
-==================================*/
+/*RESPOIVE*/
 @media screen and (max-width: 1024px){
     .grid-product{
         grid-template-columns: repeat(3,calc(33.33% - 2rem*2/3));
